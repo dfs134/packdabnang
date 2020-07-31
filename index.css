@@ -45,8 +45,8 @@ body{width: 640px; height: 3009px;}
     padding-top: 25px;}
 .sub_banner>ul>li:nth-child(2){color: #0e347e; font-family:"roboto"; font-size: 56px; font-weight: bold;
     padding-top: 15px;}
-.sub_banner>ul>li:nth-child(3){color: #766b19; font-family: "roboto"; font-size:15px; padding-top: 15px; 
-    font-weight: bold;padding-left:70px;}
+.sub_banner>ul>li:nth-child(3){color: #564e00; font-family: "roboto"; font-size:15px; padding-top: 15px; 
+    font-weight: bold;padding-left:10px;}
 
 /* sub_banner02 */
 .sub_banner02>.fresh_coffe{position: relative; margin-bottom: 10px;}
