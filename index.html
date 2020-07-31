@@ -17,9 +17,16 @@
     <link rel="stylesheet" href="./css/index.css">
     <script>
         $(document).ready(function(){
-          $('.slider').bxSlider();
+          $('.slider').bxSlider({ 
+            responsive:false,
+          controls:false,
+          auto:true,
+          pause:3000
         });
-      </script>
+    });
+
+
+        </script>
 </head>
 <style>
 
